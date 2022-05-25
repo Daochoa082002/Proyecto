@@ -1,0 +1,663 @@
+,Country Name,Country Code_x,Indicator Name,Region,Income_Group,Sexo_o_clase,Edad,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,id,lon,lat
+0,Aruba,ABW,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ABW,-69.9819,12.52018
+1,Aruba,ABW,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ABW,-69.9819,12.52018
+2,Aruba,ABW,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ABW,-69.9819,12.52018
+3,Afganistán,AFG,Porcentaje de niños economicamente activos,Asia meridional,Países de ingreso bajo,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,9.3,,,,,,,,,,AFG,66.00416,33.83535
+4,Afganistán,AFG,Porcentaje de niños economicamente activos,Asia meridional,Países de ingreso bajo,Hombre,7 a 14 años,,,,,,,,,,,,13.1,,,,,,,,,,AFG,66.00416,33.83535
+5,Afganistán,AFG,Porcentaje de niños economicamente activos,Asia meridional,Países de ingreso bajo,Mujer,7 a 14 años,,,,,,,,,,,,5.1,,,,,,,,,,AFG,66.00416,33.83535
+6,Angola,AGO,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,30.1,,,,,,,,,,,,,,,,,,,,AGO,17.53628,-12.29358
+7,Angola,AGO,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,30.0,,,,,,,,,,,,,,,,,,,,AGO,17.53628,-12.29358
+8,Angola,AGO,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,30.1,,,,,,,,,,,,,,,,,,,,AGO,17.53628,-12.29358
+9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AIA,-63.0634,18.22419
+10,Albania,ALB,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,36.58605,,,,,22.0,,,,,5.5,,,,,,,,,,,ALB,20.04905,41.14278
+11,Albania,ALB,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,41.1191,,,,,25.0,,,,,6.4,,,,,,,,,,,ALB,20.04905,41.14278
+12,Albania,ALB,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,31.84332,,,,,18.8,,,,,4.6,,,,,,,,,,,ALB,20.04905,41.14278
+13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ALD,19.95104,60.21468
+14,Andorra,AND,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,AND,1.559203,42.5421
+15,Andorra,AND,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,AND,1.559203,42.5421
+16,Andorra,AND,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,AND,1.559203,42.5421
+17,Emiratos Árabes Unidos,ARE,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ARE,54.29948,23.90512
+18,Emiratos Árabes Unidos,ARE,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ARE,54.29948,23.90512
+19,Emiratos Árabes Unidos,ARE,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ARE,54.29948,23.90512
+20,Argentina,ARG,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,12.9,,,,,,,,5.025251,,,,,,,,,ARG,-65.17909,-35.38133
+21,Argentina,ARG,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,15.7,,,,,,,,6.394649,,,,,,,,,ARG,-65.17909,-35.38133
+22,Argentina,ARG,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,9.8,,,,,,,,3.486703,,,,,,,,,ARG,-65.17909,-35.38133
+23,Armenia,ARM,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,9.9,,,,,,,,,,,ARM,44.92912,40.28975
+24,Armenia,ARM,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,,,,,,12.0,,,,,,,,,,,ARM,44.92912,40.28975
+25,Armenia,ARM,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,,,,,,7.5,,,,,,,,,,,ARM,44.92912,40.28975
+26,Samoa Americana,ASM,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ASM,-170.7179,-14.30502
+27,Samoa Americana,ASM,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ASM,-170.7179,-14.30502
+28,Samoa Americana,ASM,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ASM,-170.7179,-14.30502
+29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ATC,123.5839,-12.43028
+30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ATF,69.22351,-49.24875
+31,Antigua y Barbuda,ATG,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ATG,-61.79396,17.28067
+32,Antigua y Barbuda,ATG,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ATG,-61.79396,17.28067
+33,Antigua y Barbuda,ATG,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ATG,-61.79396,17.28067
+34,Australia,AUS,Porcentaje de niños economicamente activos,Oceanía,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,AUS,134.491,-25.73295
+35,Australia,AUS,Porcentaje de niños economicamente activos,Oceanía,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,AUS,134.491,-25.73295
+36,Australia,AUS,Porcentaje de niños economicamente activos,Oceanía,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,AUS,134.491,-25.73295
+37,Austria,AUT,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,AUT,14.12571,47.58558
+38,Austria,AUT,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,AUT,14.12571,47.58558
+39,Austria,AUT,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,AUT,14.12571,47.58558
+40,Azerbaiyán,AZE,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,9.729839,,,,,5.2,,,,,,,,,,,,,,,,AZE,47.54525,40.2886
+41,Azerbaiyán,AZE,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,12.01427,,,,,5.8,,,,,,,,,,,,,,,,AZE,47.54525,40.2886
+42,Azerbaiyán,AZE,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,7.330279,,,,,4.5,,,,,,,,,,,,,,,,AZE,47.54525,40.2886
+43,Burundi,BDI,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre y Mujer,7 a 14 años,36.96453,,,,,11.7,,,,,31.9,,,,,,,,,,,BDI,29.87436,-3.359409
+44,Burundi,BDI,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre,7 a 14 años,38.38014,,,,,12.5,,,,,31.3,,,,,,,,,,,BDI,29.87436,-3.359409
+45,Burundi,BDI,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Mujer,7 a 14 años,35.67728,,,,,11.0,,,,,32.4,,,,,,,,,,,BDI,29.87436,-3.359409
+46,Bélgica,BEL,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,BEL,4.639495,50.63975
+47,Bélgica,BEL,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,BEL,4.639495,50.63975
+48,Bélgica,BEL,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,BEL,4.639495,50.63975
+49,Benin,BEN,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,,74.4,,,,,,24.1,,,,,,,,,BEN,2.32703,9.642568
+50,Benin,BEN,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,,72.8,,,,,,24.4,,,,,,,,,BEN,2.32703,9.642568
+51,Benin,BEN,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,,76.1,,,,,,23.7,,,,,,,,,BEN,2.32703,9.642568
+52,Burkina Faso,BFA,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre y Mujer,7 a 14 años,,,,50.0,,,42.1,,,,50.3,,,,,,,,,,,BFA,-1.75448,12.26929
+53,Burkina Faso,BFA,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre,7 a 14 años,,,,49.0,,,49.0,,,,55.6,,,,,,,,,,,BFA,-1.75448,12.26929
+54,Burkina Faso,BFA,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Mujer,7 a 14 años,,,,51.0,,,34.5,,,,44.8,,,,,,,,,,,BFA,-1.75448,12.26929
+55,Bangladesh,BGD,Porcentaje de niños economicamente activos,Asia meridional,Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,17.5385033159,,,16.2,,,,,,,5.002084,,,,,,,,BGD,90.23771,23.86685
+56,Bangladesh,BGD,Porcentaje de niños economicamente activos,Asia meridional,Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,20.9036756108,,,25.7,,,,,,,5.72861,,,,,,,,BGD,90.23771,23.86685
+57,Bangladesh,BGD,Porcentaje de niños economicamente activos,Asia meridional,Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,13.9129715635,,,6.4,,,,,,,4.224495,,,,,,,,BGD,90.23771,23.86685
+58,Bulgaria,BGR,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,BGR,25.21456,42.76925
+59,Bulgaria,BGR,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,BGR,25.21456,42.76925
+60,Bulgaria,BGR,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,BGR,25.21456,42.76925
+61,Bahrein,BHR,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,BHR,50.54083,26.04205
+62,Bahrein,BHR,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,BHR,50.54083,26.04205
+63,Bahrein,BHR,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,BHR,50.54083,26.04205
+64,Bahamas,BHS,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,BHS,-76.62895,24.29199
+65,Bahamas,BHS,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,BHS,-76.62895,24.29199
+66,Bahamas,BHS,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,BHS,-76.62895,24.29199
+67,Bosnia y Herzegovina,BIH,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,20.2,,,,,,10.6,,,,,,,,,,,,,,,BIH,17.76757,44.17462
+68,Bosnia y Herzegovina,BIH,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,22.8,,,,,,11.7,,,,,,,,,,,,,,,BIH,17.76757,44.17462
+69,Bosnia y Herzegovina,BIH,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,17.6,,,,,,9.5,,,,,,,,,,,,,,,BIH,17.76757,44.17462
+70,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BLM,-62.83981,17.89868
+71,Belarús,BLR,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,11.7,,,,,,,2.3,,,,,,,,,BLR,28.03141,53.53108
+72,Belarús,BLR,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,12.1,,,,,,,2.0,,,,,,,,,BLR,28.03141,53.53108
+73,Belarús,BLR,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,11.2,,,,,,,2.6,,,,,,,,,BLR,28.03141,53.53108
+74,Belice,BLZ,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,BLZ,-88.70973,17.20033
+75,Belice,BLZ,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,BLZ,-88.70973,17.20033
+76,Belice,BLZ,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,BLZ,-88.70973,17.20033
+77,Bermudas,BMU,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,BMU,-64.75438,32.31445
+78,Bermudas,BMU,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,BMU,-64.75438,32.31445
+79,Bermudas,BMU,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,BMU,-64.75438,32.31445
+80,Bolivia,BOL,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,23.2,,,22.0,,,32.1,20.2,,,,20.20834,,13.92,,,,,,BOL,-64.68476,-16.70815
+81,Bolivia,BOL,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,24.0,,,23.9,,,33.0,21.8,,,,19.89117,,15.19,,,,,,BOL,-64.68476,-16.70815
+82,Bolivia,BOL,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,22.5,,,20.1,,,31.1,18.4,,,,20.52219,,12.59,,,,,,BOL,-64.68476,-16.70815
+83,Brasil,BRA,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,7.0,,,6.1,5.2,5.0,,4.2,,3.215266,3.5326490334317,2.54,,,,,,BRA,-53.09716,-10.78741
+84,Brasil,BRA,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,9.4,,,8.1,6.9,6.6,,5.75,,4.297545,4.7786048224251,3.52,,,,,,BRA,-53.09716,-10.78741
+85,Brasil,BRA,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,4.60644,,,4.0,3.5,3.3,,2.59,,2.071282,2.2096160917822,1.53,,,,,,BRA,-53.09716,-10.78741
+86,Barbados,BRB,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,BRB,-59.55971,13.18209
+87,Barbados,BRB,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,BRB,-59.55971,13.18209
+88,Barbados,BRB,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,BRB,-59.55971,13.18209
+89,Brunei Darussalam,BRN,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,BRN,114.7219,4.519735
+90,Brunei Darussalam,BRN,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,BRN,114.7219,4.519735
+91,Brunei Darussalam,BRN,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,BRN,114.7219,4.519735
+92,Bhután,BTN,Porcentaje de niños economicamente activos,Asia meridional,Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,BTN,90.40128,27.4106
+93,Bhután,BTN,Porcentaje de niños economicamente activos,Asia meridional,Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,BTN,90.40128,27.4106
+94,Bhután,BTN,Porcentaje de niños economicamente activos,Asia meridional,Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,BTN,90.40128,27.4106
+95,Botswana,BWA,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,BWA,23.79765,-22.18406
+96,Botswana,BWA,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,BWA,23.79765,-22.18406
+97,Botswana,BWA,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,BWA,23.79765,-22.18406
+98,República Centroafricana,CAF,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre y Mujer,7 a 14 años,67.0,,,,,,,,,,37.2,,,,,,,,,,,CAF,20.46734,6.568471
+99,República Centroafricana,CAF,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre,7 a 14 años,66.5,,,,,,,,,,36.6,,,,,,,,,,,CAF,20.46734,6.568471
+100,República Centroafricana,CAF,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Mujer,7 a 14 años,67.6,,,,,,,,,,37.9,,,,,,,,,,,CAF,20.46734,6.568471
+101,Canadá,CAN,Porcentaje de niños economicamente activos,America del Norte,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,CAN,-98.30727,61.36229
+102,Canadá,CAN,Porcentaje de niños economicamente activos,America del Norte,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,CAN,-98.30727,61.36229
+103,Canadá,CAN,Porcentaje de niños economicamente activos,America del Norte,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,CAN,-98.30727,61.36229
+104,Suiza,CHE,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,CHE,8.207905,46.79784
+105,Suiza,CHE,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,CHE,8.207905,46.79784
+106,Suiza,CHE,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,CHE,8.207905,46.79784
+107,Chile,CHL,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,4.1,,,,,,,,,4.5,,,,,,,,,CHL,-71.38192,-37.73124
+108,Chile,CHL,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre,7 a 14 años,,,,5.1,,,,,,,,,6.2,,,,,,,,,CHL,-71.38192,-37.73124
+109,Chile,CHL,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Mujer,7 a 14 años,,,,3.1,,,,,,,,,2.8,,,,,,,,,CHL,-71.38192,-37.73124
+110,China,CHN,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,CHN,103.8183,36.56161
+111,China,CHN,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,CHN,103.8183,36.56161
+112,China,CHN,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,CHN,103.8183,36.56161
+113,Côte d'Ivoire,CIV,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,40.7,,,,,,45.7,,,,,,36.5,,,,,,,,,CIV,-5.568399,7.628679
+114,Côte d'Ivoire,CIV,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,40.9,,,,,,47.7,,,,,,36.6,,,,,,,,,CIV,-5.568399,7.628679
+115,Côte d'Ivoire,CIV,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,40.5,,,,,,43.6,,,,,,36.4,,,,,,,,,CIV,-5.568399,7.628679
+116,Camerún,CMR,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,15.9114,,,,,,43.4,,,,62.0,,,,,,,,,,CMR,12.73871,5.691472
+117,Camerún,CMR,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,14.46574,,,,,,43.5,,,,63.6,,,,,,,,,,CMR,12.73871,5.691472
+118,Camerún,CMR,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,17.40652,,,,,,43.4,,,,60.4,,,,,,,,,,CMR,12.73871,5.691472
+119,"Congo, República Democrática del",COD,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre y Mujer,7 a 14 años,39.8,,,,,,,30.5,,,20.5,,,,41.391428539747,,,,,,,COD,23.64301,-2.877537
+120,"Congo, República Democrática del",COD,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre,7 a 14 años,39.9,,,,,,,29.5,,,19.5,,,,39.156320583922,,,,,,,COD,23.64301,-2.877537
+121,"Congo, República Democrática del",COD,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Mujer,7 a 14 años,39.8,,,,,,,31.5,,,21.4,,,,43.608495973072,,,,,,,COD,23.64301,-2.877537
+122,"Congo, República del",COG,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,30.06,,,,,,,31.5,,,,,,,,,COG,15.21867,-0.8379947
+123,"Congo, República del",COG,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,29.9,,,,,,,31.4,,,,,,,,,COG,15.21867,-0.8379947
+124,"Congo, República del",COG,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,30.183,,,,,,,31.6,,,,,,,,,COG,15.21867,-0.8379947
+125,,,,,,,,,,,,,,,,,,,,,,,,,,,,,COK,-159.7871,-21.21887
+126,Colombia,COL,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,4.0,,3.9,,6.44,,,7.2,,6.619165,5.56,,,,,,COL,-73.08039,3.914004
+127,Colombia,COL,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,6.2,,5.3,,8.29,,,9.5,,8.569861,6.92,,,,,,COL,-73.08039,3.914004
+128,Colombia,COL,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,1.8,,2.3,,4.39,,,4.7,,4.455055,4.1,,,,,,COL,-73.08039,3.914004
+129,Comoras,COM,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,COM,43.67901,-11.87644
+130,Comoras,COM,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,COM,43.67901,-11.87644
+131,Comoras,COM,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,COM,43.67901,-11.87644
+132,Cabo Verde,CPV,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,CPV,-23.9582,15.95312
+133,Cabo Verde,CPV,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,CPV,-23.9582,15.95312
+134,Cabo Verde,CPV,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,CPV,-23.9582,15.95312
+135,Costa Rica,CRI,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,5.7,,,,,,,2.5,,,,,1.31,,,,,CRI,-84.19143,9.976613
+136,Costa Rica,CRI,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,8.1,,,,,,,3.4,,,,,1.94,,,,,CRI,-84.19143,9.976613
+137,Costa Rica,CRI,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,3.5,,,,,,,1.6,,,,,0.63,,,,,CRI,-84.19143,9.976613
+138,Cuba,CUB,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,CUB,-79.01547,21.62276
+139,Cuba,CUB,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,CUB,-79.01547,21.62276
+140,Cuba,CUB,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,CUB,-79.01547,21.62276
+141,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CUW,-68.97081,12.19602
+142,Islas Caimán,CYM,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,CYM,-80.91132,19.42869
+143,Islas Caimán,CYM,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,CYM,-80.91132,19.42869
+144,Islas Caimán,CYM,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,CYM,-80.91132,19.42869
+145,Chipre,CYP,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,CYP,33.56792,35.26329
+146,Chipre,CYP,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,CYP,33.56792,35.26329
+147,Chipre,CYP,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,CYP,33.56792,35.26329
+148,Chipre,CYP,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,CYP,33.00508,34.91717
+149,Chipre,CYP,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,CYP,33.00508,34.91717
+150,Chipre,CYP,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,CYP,33.00508,34.91717
+151,República Checa,CZE,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,CZE,15.31146,49.73333
+152,República Checa,CZE,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,CZE,15.31146,49.73333
+153,República Checa,CZE,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,CZE,15.31146,49.73333
+154,Alemania,DEU,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,DEU,10.38469,51.10689
+155,Alemania,DEU,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,DEU,10.38469,51.10689
+156,Alemania,DEU,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,DEU,10.38469,51.10689
+157,Djibouti,DJI,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,DJI,42.55975,11.74906
+158,Djibouti,DJI,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,DJI,42.55975,11.74906
+159,Djibouti,DJI,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,DJI,42.55975,11.74906
+160,Dominica,DMA,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,DMA,-61.3575,15.43921
+161,Dominica,DMA,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,DMA,-61.3575,15.43921
+162,Dominica,DMA,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,DMA,-61.3575,15.43921
+163,Dinamarca,DNK,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,DNK,10.02693,55.98121
+164,Dinamarca,DNK,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,DNK,10.02693,55.98121
+165,Dinamarca,DNK,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,DNK,10.02693,55.98121
+166,República Dominicana,DOM,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,3.5,,,5.8,,,,14.05843,,,2.684442,,13.196593457211,,,,,,,DOM,-70.50498,18.89411
+167,República Dominicana,DOM,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,5.9,,,9.0,,,,19.85296,,,3.854917,,15.713939026296,,,,,,,DOM,-70.50498,18.89411
+168,República Dominicana,DOM,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,0.9,,,2.7,,,,7.873248,,,1.405777,,10.316032966088,,,,,,,DOM,-70.50498,18.89411
+169,Argelia,DZA,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,7.5007636979978,,,,,,,,DZA,2.616986,28.15883
+170,Argelia,DZA,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,,,,,,,,,8.4668352460352,,,,,,,,DZA,2.616986,28.15883
+171,Argelia,DZA,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,,,,,,,,,6.4895522127262,,,,,,,,DZA,2.616986,28.15883
+172,Ecuador,ECU,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,12.0,,14.3,,,6.3,,3.2,,,,5.562005,,,,,,ECU,-78.75081,-1.423578
+173,Ecuador,ECU,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,14.6,,16.9,,,7.4,,3.8,,,,5.911136,,,,,,ECU,-78.75081,-1.423578
+174,Ecuador,ECU,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,9.3,,11.6,,,5.2,,2.5,,,,5.179114,,,,,,ECU,-78.75081,-1.423578
+175,"Egipto, República Árabe de",EGY,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,7.9,,,,2.9,,,,,,,,,,,,EGY,29.86112,26.49595
+176,"Egipto, República Árabe de",EGY,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,11.5,,,,4.8,,,,,,,,,,,,EGY,29.86112,26.49595
+177,"Egipto, República Árabe de",EGY,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,4.3,,,,0.9,,,,,,,,,,,,EGY,29.86112,26.49595
+178,Eritrea,ERI,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ERI,38.84531,15.3616
+179,Eritrea,ERI,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ERI,38.84531,15.3616
+180,Eritrea,ERI,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ERI,38.84531,15.3616
+181,España,ESP,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ESP,-3.64715,40.24486
+182,España,ESP,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ESP,-3.64715,40.24486
+183,España,ESP,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ESP,-3.64715,40.24486
+184,Estonia,EST,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,EST,25.54196,58.67153
+185,Estonia,EST,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,EST,25.54196,58.67153
+186,Estonia,EST,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,EST,25.54196,58.67153
+187,Etiopía,ETH,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre y Mujer,7 a 14 años,,,,,,56.0,,,,,,26.1,,,,,,,,,,ETH,39.60005,8.622862
+188,Etiopía,ETH,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre,7 a 14 años,,,,,,64.3,,,,,,32.5,,,,,,,,,,ETH,39.60005,8.622862
+189,Etiopía,ETH,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Mujer,7 a 14 años,,,,,,47.1,,,,,,19.5,,,,,,,,,,ETH,39.60005,8.622862
+190,Finlandia,FIN,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,FIN,26.2738,64.49898
+191,Finlandia,FIN,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,FIN,26.2738,64.49898
+192,Finlandia,FIN,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,FIN,26.2738,64.49898
+193,Fiji,FJI,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,FJI,165.4473,-17.42923
+194,Fiji,FJI,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,FJI,165.4473,-17.42923
+195,Fiji,FJI,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,FJI,165.4473,-17.42923
+196,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FLK,-59.35237,-51.745
+197,Francia,FRA,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,FRA,-2.762392,42.17295
+198,Francia,FRA,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,FRA,-2.762392,42.17295
+199,Francia,FRA,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,FRA,-2.762392,42.17295
+200,Islas Feroe,FRO,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,FRO,-6.879568,62.05331
+201,Islas Feroe,FRO,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,FRO,-6.879568,62.05331
+202,Islas Feroe,FRO,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,FRO,-6.879568,62.05331
+203,Micronesia (Estados Federados de),FSM,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,FSM,153.2768,7.446647
+204,Micronesia (Estados Federados de),FSM,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,FSM,153.2768,7.446647
+205,Micronesia (Estados Federados de),FSM,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,FSM,153.2768,7.446647
+206,Gabón,GAB,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,24.0,,,,,,,,,GAB,11.78763,-0.5864645
+207,Gabón,GAB,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,,,,,,,,25.6,,,,,,,,,GAB,11.78763,-0.5864645
+208,Gabón,GAB,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,,,,,,,,22.6,,,,,,,,,GAB,11.78763,-0.5864645
+209,Reino Unido,GBR,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,GBR,-2.865261,54.12375
+210,Reino Unido,GBR,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,GBR,-2.865261,54.12375
+211,Reino Unido,GBR,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,GBR,-2.865261,54.12375
+212,Georgia,GEO,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,,31.8,,,,,,,,,,,,,,,GEO,43.50721,42.16869
+213,Georgia,GEO,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,,33.6,,,,,,,,,,,,,,,GEO,43.50721,42.16869
+214,Georgia,GEO,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,,29.9,,,,,,,,,,,,,,,GEO,43.50721,42.16869
+215,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GGY,-2.570578,49.46843
+216,Ghana,GHA,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,6.0,,,48.9,,,,,,28.76078,,,,,,,,,GHA,-1.216875,7.95338
+217,Ghana,GHA,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,6.0,,,49.9,,,,,,28.83964,,,,,,,,,GHA,-1.216875,7.95338
+218,Ghana,GHA,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,5.9,,,48.0,,,,,,28.67899,,,,,,,,,GHA,-1.216875,7.95338
+219,Guinea,GIN,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre y Mujer,7 a 14 años,,,,,,,,,,,44.9,,38.1,,,,,,,,,GIN,-10.93944,10.43629
+220,Guinea,GIN,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre,7 a 14 años,,,,,,,,,,,45.1,,40.3,,,,,,,,,GIN,-10.93944,10.43629
+221,Guinea,GIN,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Mujer,7 a 14 años,,,,,,,,,,,44.7,,35.9,,,,,,,,,GIN,-10.93944,10.43629
+222,Gambia,GMB,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre y Mujer,7 a 14 años,25.31456,,,,,43.5,,,35.9,,,,,,,23.75,,,,,,GMB,-15.39417,13.44968
+223,Gambia,GMB,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre,7 a 14 años,25.36261,,,,,33.9,,,37.6,,,,,,,26.19,,,,,,GMB,-15.39417,13.44968
+224,Gambia,GMB,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Mujer,7 a 14 años,25.27115,,,,,52.3,,,34.3,,,,,,,21.24,,,,,,GMB,-15.39417,13.44968
+225,Guinea-Bissau,GNB,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre y Mujer,7 a 14 años,67.5,,,,,,50.5,,,,,,,,63.916178783634,,,,,,,GNB,-14.94868,12.04757
+226,Guinea-Bissau,GNB,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre,7 a 14 años,67.4,,,,,,52.8,,,,,,,,65.349524830031,,,,,,,GNB,-14.94868,12.04757
+227,Guinea-Bissau,GNB,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Mujer,7 a 14 años,67.5,,,,,,48.1,,,,,,,,62.459333875516,,,,,,,GNB,-14.94868,12.04757
+228,Guinea Ecuatorial,GNQ,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,GNQ,10.34056,1.706056
+229,Guinea Ecuatorial,GNQ,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,GNQ,10.34056,1.706056
+230,Guinea Ecuatorial,GNQ,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,GNQ,10.34056,1.706056
+231,Grecia,GRC,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,GRC,22.95467,39.07519
+232,Grecia,GRC,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,GRC,22.95467,39.07519
+233,Grecia,GRC,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,GRC,22.95467,39.07519
+234,Granada,GRD,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,GRD,-61.68055,12.11805
+235,Granada,GRD,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,GRD,-61.68055,12.11805
+236,Granada,GRD,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,GRD,-61.68055,12.11805
+237,Groenlandia,GRL,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,GRL,-41.34109,74.71044
+238,Groenlandia,GRL,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,GRL,-41.34109,74.71044
+239,Groenlandia,GRL,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,GRL,-41.34109,74.71044
+240,Guatemala,GTM,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,21.1,16.8,,18.2,,,,,,19.2,,10.60697,7.2426404164735,,,,,,GTM,-90.36421,15.69391
+241,Guatemala,GTM,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,26.2,23.1,,24.5,,,,,,26.6,,14.6219,10.037803010883,,,,,,GTM,-90.36421,15.69391
+242,Guatemala,GTM,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,16.0,10.5,,11.7,,,,,,11.4,,6.323827,4.2463315513856,,,,,,GTM,-90.36421,15.69391
+243,Guam,GUM,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,GUM,144.7682,13.44194
+244,Guam,GUM,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,GUM,144.7682,13.44194
+245,Guam,GUM,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,GUM,144.7682,13.44194
+246,Guyana,GUY,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,GUY,-58.98136,4.794206
+247,Guyana,GUY,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,GUY,-58.98136,4.794206
+248,Guyana,GUY,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,GUY,-58.98136,4.794206
+249,"Hong Kong, Región Administrativa Especial",HKG,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,HKG,114.1137,22.39848
+250,"Hong Kong, Región Administrativa Especial",HKG,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,HKG,114.1137,22.39848
+251,"Hong Kong, Región Administrativa Especial",HKG,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,HKG,114.1137,22.39848
+252,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HMD,73.52037,-53.0877
+253,Honduras,HND,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,6.8,,,8.7,,,,7.8,,9.2,10.50187,,,,,,,HND,-86.61465,14.82674
+254,Honduras,HND,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,10.4,,,13.3,,,,12.4,,14.6,15.11724,,,,,,,HND,-86.61465,14.82674
+255,Honduras,HND,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,3.2,,,4.1,,,,3.0,,3.8,5.753953,,,,,,,HND,-86.61465,14.82674
+256,Croacia,HRV,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,HRV,16.40329,45.08051
+257,Croacia,HRV,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,HRV,16.40329,45.08051
+258,Croacia,HRV,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,HRV,16.40329,45.08051
+259,Haití,HTI,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,,33.4,,,,,,37.8,,,,,,,,,HTI,-72.6843,18.93552
+260,Haití,HTI,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,,37.3,,,,,,40.3,,,,,,,,,HTI,-72.6843,18.93552
+261,Haití,HTI,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,,29.6,,,,,,35.2,,,,,,,,,HTI,-72.6843,18.93552
+262,Hungría,HUN,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,HUN,19.39451,47.16273
+263,Hungría,HUN,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,HUN,19.39451,47.16273
+264,Hungría,HUN,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,HUN,19.39451,47.16273
+265,Indonesia,IDN,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,8.934132,,,,,,,,,6.6,3.7,,,,,,,,,,,IDN,117.241,-2.215116
+266,Indonesia,IDN,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,8.777495,,,,,,,,,7.0,4.2,,,,,,,,,,,IDN,117.241,-2.215116
+267,Indonesia,IDN,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,9.101751,,,,,,,,,6.2,3.2,,,,,,,,,,,IDN,117.241,-2.215116
+268,Isla de Man,IMN,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,IMN,-4.538061,54.22401
+269,Isla de Man,IMN,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,IMN,-4.538061,54.22401
+270,Isla de Man,IMN,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,IMN,-4.538061,54.22401
+271,India,IND,Porcentaje de niños economicamente activos,Asia meridional,Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,5.2,,,,,4.2,15.3,,,,2.5,,1.7,,,,,,,,,IND,79.61129,22.88564
+272,India,IND,Porcentaje de niños economicamente activos,Asia meridional,Países de ingreso mediano bajo,Hombre,7 a 14 años,5.3,,,,,4.2,17.4,,,,2.8,,1.9,,,,,,,,,IND,79.61129,22.88564
+273,India,IND,Porcentaje de niños economicamente activos,Asia meridional,Países de ingreso mediano bajo,Mujer,7 a 14 años,5.1,,,,,4.2,13.1,,,,2.1,,1.6,,,,,,,,,IND,79.61129,22.88564
+274,Australia,AUS,Porcentaje de niños economicamente activos,Oceanía,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,AUS,104.8564,-10.64715
+275,Australia,AUS,Porcentaje de niños economicamente activos,Oceanía,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,AUS,104.8564,-10.64715
+276,Australia,AUS,Porcentaje de niños economicamente activos,Oceanía,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,AUS,104.8564,-10.64715
+277,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IOT,72.44314,-7.330777
+278,Irlanda,IRL,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,IRL,-8.13686,53.17544
+279,Irlanda,IRL,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,IRL,-8.13686,53.17544
+280,Irlanda,IRL,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,IRL,-8.13686,53.17544
+281,"Irán, República Islámica del",IRN,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,IRN,54.27341,32.57503
+282,"Irán, República Islámica del",IRN,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,IRN,54.27341,32.57503
+283,"Irán, República Islámica del",IRN,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,IRN,54.27341,32.57503
+284,Iraq,IRQ,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,13.65009,,,,,,14.7,,,,,6.4,,,,,,,,,,IRQ,43.74287,33.0397
+285,Iraq,IRQ,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,17.44824,,,,,,17.9,,,,,8.3,,,,,,,,,,IRQ,43.74287,33.0397
+286,Iraq,IRQ,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,9.674926,,,,,,11.3,,,,,4.3,,,,,,,,,,IRQ,43.74287,33.0397
+287,Islandia,ISL,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ISL,-18.57285,64.99532
+288,Islandia,ISL,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ISL,-18.57285,64.99532
+289,Islandia,ISL,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ISL,-18.57285,64.99532
+290,Israel,ISR,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ISR,35.00396,31.46228
+291,Israel,ISR,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ISR,35.00396,31.46228
+292,Israel,ISR,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ISR,35.00396,31.46228
+293,Italia,ITA,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ITA,12.06869,42.79698
+294,Italia,ITA,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ITA,12.06869,42.79698
+295,Italia,ITA,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ITA,12.06869,42.79698
+296,Jamaica,JAM,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,1.1,,,9.8,,,,,,6.2,,,,,,,,,,JAM,-77.31426,18.15701
+297,Jamaica,JAM,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,1.5,,,11.3,,,,,,6.4,,,,,,,,,,JAM,-77.31426,18.15701
+298,Jamaica,JAM,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,0.6,,,8.3,,,,,,6.0,,,,,,,,,,JAM,-77.31426,18.15701
+299,,,,,,,,,,,,,,,,,,,,,,,,,,,,,JEY,-2.125915,49.21796
+300,Jordania,JOR,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,,,1.0,,,,,,,,,1.23,,,,,JOR,36.77027,31.24568
+301,Jordania,JOR,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,,,1.6,,,,,,,,,2.01,,,,,JOR,36.77027,31.24568
+302,Jordania,JOR,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,,,0.4,,,,,,,,,0.4,,,,,JOR,36.77027,31.24568
+303,Japón,JPN,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,JPN,138.0301,37.59226
+304,Japón,JPN,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,JPN,138.0301,37.59226
+305,Japón,JPN,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,JPN,138.0301,37.59226
+306,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KAS,77.17961,35.39261
+307,Kazajstán,KAZ,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,,3.6,,,,,,,,,,,,,,,KAZ,67.29091,48.15688
+308,Kazajstán,KAZ,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,,4.4,,,,,,,,,,,,,,,KAZ,67.29091,48.15688
+309,Kazajstán,KAZ,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,,2.8,,,,,,,,,,,,,,,KAZ,67.29091,48.15688
+310,Kenya,KEN,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,37.7,,,,,,,,,34.438886165045,,,,,,,,,,,,KEN,37.79522,0.6000307
+311,Kenya,KEN,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,40.1,,,,,,,,,34.941671007523,,,,,,,,,,,,KEN,37.79522,0.6000307
+312,Kenya,KEN,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,35.2,,,,,,,,,33.92144737892,,,,,,,,,,,,KEN,37.79522,0.6000307
+313,Kirguistán,KGZ,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,,5.2,36.6,,,,,,,41.080554113262,,,,,,,KGZ,74.54077,41.46255
+314,Kirguistán,KGZ,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,,5.8,37.5,,,,,,,47.242444904014,,,,,,,KGZ,74.54077,41.46255
+315,Kirguistán,KGZ,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,,4.6,35.6,,,,,,,33.703132240089,,,,,,,KGZ,74.54077,41.46255
+316,Camboya,KHM,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,52.3,,,48.9,,,,,34.5,,,11.5,,,,,,,,,KHM,104.9067,12.72015
+317,Camboya,KHM,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,52.4,,,49.6,,,,,35.0,,,11.0,,,,,,,,,KHM,104.9067,12.72015
+318,Camboya,KHM,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,52.1,,,48.1,,,,,33.9,,,12.1,,,,,,,,,KHM,104.9067,12.72015
+319,Kiribati,KIR,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,KIR,-43.9958,0.8491022
+320,Kiribati,KIR,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,KIR,-43.9958,0.8491022
+321,Kiribati,KIR,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,KIR,-43.9958,0.8491022
+322,Saint Kitts y Nevis,KNA,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,KNA,-62.68692,17.26396
+323,Saint Kitts y Nevis,KNA,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,KNA,-62.68692,17.26396
+324,Saint Kitts y Nevis,KNA,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,KNA,-62.68692,17.26396
+325,"Corea, República de",KOR,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,KOR,127.8388,36.38549
+326,"Corea, República de",KOR,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,KOR,127.8388,36.38549
+327,"Corea, República de",KOR,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,KOR,127.8388,36.38549
+328,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KOS,20.87176,42.57097
+329,Kuwait,KWT,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,KWT,47.58633,29.3339
+330,Kuwait,KWT,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,KWT,47.58633,29.3339
+331,Kuwait,KWT,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,KWT,47.58633,29.3339
+332,República Democrática Popular Lao,LAO,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,,18.6,,,,8.6,,,,,,,,,,,LAO,103.7374,18.50181
+333,República Democrática Popular Lao,LAO,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,,17.9,,,,7.6,,,,,,,,,,,LAO,103.7374,18.50181
+334,República Democrática Popular Lao,LAO,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,,19.2,,,,9.7,,,,,,,,,,,LAO,103.7374,18.50181
+335,Líbano,LBN,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,LBN,35.87964,33.92379
+336,Líbano,LBN,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,LBN,35.87964,33.92379
+337,Líbano,LBN,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,LBN,35.87964,33.92379
+338,Liberia,LBR,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre y Mujer,7 a 14 años,,,,,,,,37.4,,,18.4,,,,,,,,,,,LBR,-9.321095,6.452943
+339,Liberia,LBR,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre,7 a 14 años,,,,,,,,37.8,,,21.7,,,,,,,,,,,LBR,-9.321095,6.452943
+340,Liberia,LBR,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Mujer,7 a 14 años,,,,,,,,37.1,,,15.0,,,,,,,,,,,LBR,-9.321095,6.452943
+341,Libia,LBY,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,LBY,18.00785,27.03083
+342,Libia,LBY,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,LBY,18.00785,27.03083
+343,Libia,LBY,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,LBY,18.00785,27.03083
+344,Santa Lucía,LCA,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,LCA,-60.97001,13.89449
+345,Santa Lucía,LCA,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,LCA,-60.97001,13.89449
+346,Santa Lucía,LCA,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,LCA,-60.97001,13.89449
+347,Liechtenstein,LIE,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,LIE,9.534636,47.13698
+348,Liechtenstein,LIE,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,LIE,9.534636,47.13698
+349,Liechtenstein,LIE,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,LIE,9.534636,47.13698
+350,Sri Lanka,LKA,Porcentaje de niños economicamente activos,Asia meridional,Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,,,,,10.7,,,,,,,,,,,,LKA,80.70066,7.612899
+351,Sri Lanka,LKA,Porcentaje de niños economicamente activos,Asia meridional,Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,,,,,13.0,,,,,,,,,,,,LKA,80.70066,7.612899
+352,Sri Lanka,LKA,Porcentaje de niños economicamente activos,Asia meridional,Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,,,,,8.5,,,,,,,,,,,,LKA,80.70066,7.612899
+353,Lesotho,LSO,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,30.8481,,2.6,,,,,,,,,,,,,,,,,,,LSO,28.22623,-29.57971
+354,Lesotho,LSO,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,34.18427,,4.0,,,,,,,,,,,,,,,,,,,LSO,28.22623,-29.57971
+355,Lesotho,LSO,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,27.52267,,1.3,,,,,,,,,,,,,,,,,,,LSO,28.22623,-29.57971
+356,Lituania,LTU,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,LTU,23.88652,55.32573
+357,Lituania,LTU,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,LTU,23.88652,55.32573
+358,Lituania,LTU,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,LTU,23.88652,55.32573
+359,Luxemburgo,LUX,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,LUX,6.070284,49.76738
+360,Luxemburgo,LUX,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,LUX,6.070284,49.76738
+361,Luxemburgo,LUX,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,LUX,6.070284,49.76738
+362,Letonia,LVA,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,LVA,24.91143,56.85056
+363,Letonia,LVA,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,LVA,24.91143,56.85056
+364,Letonia,LVA,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,LVA,24.91143,56.85056
+365,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAC,113.5095,22.22305
+366,Isla de San Martín (parte francesa),MAF,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,MAF,-63.06031,18.08881
+367,Isla de San Martín (parte francesa),MAF,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,MAF,-63.06031,18.08881
+368,Isla de San Martín (parte francesa),MAF,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,MAF,-63.06031,18.08881
+369,Marruecos,MAR,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,4.5,,,,,,,,,,,,,,,,,MAR,-8.454856,29.83772
+370,Marruecos,MAR,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,6.0,,,,,,,,,,,,,,,,,MAR,-8.454856,29.83772
+371,Marruecos,MAR,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,3.0,,,,,,,,,,,,,,,,,MAR,-8.454856,29.83772
+372,Mónaco,MCO,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,MCO,7.405016,43.75351
+373,Mónaco,MCO,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,MCO,7.405016,43.75351
+374,Mónaco,MCO,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,MCO,7.405016,43.75351
+375,República de Moldova,MDA,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,33.5,,,,,,,,,29.0,,,,,,,,,,,,MDA,28.45595,47.19487
+376,República de Moldova,MDA,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,34.121,,,,,,,,,34.5,,,,,,,,,,,,MDA,28.45595,47.19487
+377,República de Moldova,MDA,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,32.8,,,,,,,,,23.0,,,,,,,,,,,,MDA,28.45595,47.19487
+378,Madagascar,MDG,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre y Mujer,7 a 14 años,,25.63487,,,,,,26.0,,,,,,,,,,,,,,MDG,46.70402,-19.37194
+379,Madagascar,MDG,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre,7 a 14 años,,26.12072,,,,,,27.7,,,,,,,,,,,,,,MDG,46.70402,-19.37194
+380,Madagascar,MDG,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Mujer,7 a 14 años,,25.13218,,,,,,24.2,,,,,,,,,,,,,,MDG,46.70402,-19.37194
+381,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B13,73.4559,3.72532
+382,México,MEX,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,8.9,,,8.3,,12.2,8.0,6.8,,5.606943,,,,,,,,MEX,-102.5235,23.9475
+383,México,MEX,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,12.2,,,10.9,,16.5,11.3,9.1,,7.350553,,,,,,,,MEX,-102.5235,23.9475
+384,México,MEX,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,5.6,,,5.6,,7.6,4.7,4.4,,3.795669,,,,,,,,MEX,-102.5235,23.9475
+385,Islas Marshall,MHL,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,MHL,170.3478,7.018094
+386,Islas Marshall,MHL,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,MHL,170.3478,7.018094
+387,Islas Marshall,MHL,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,MHL,170.3478,7.018094
+388,Macedonia del Norte,MKD,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,,11.8,,,,,19.8,,,,,,,,,,MKD,21.68138,41.59562
+389,Macedonia del Norte,MKD,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,,14.8,,,,,20.3,,,,,,,,,,MKD,21.68138,41.59562
+390,Macedonia del Norte,MKD,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,,8.6,,,,,19.2,,,,,,,,,,MKD,21.68138,41.59562
+391,Malí,MLI,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre y Mujer,7 a 14 años,,,,,,52.3,49.5,23.0,,,,,,29.7,,,,,,,,MLI,-3.542501,17.34559
+392,Malí,MLI,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre,7 a 14 años,,,,,,64.4,55.0,24.2,,,,,,32.3,,,,,,,,MLI,-3.542501,17.34559
+393,Malí,MLI,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Mujer,7 a 14 años,,,,,,39.4,44.1,21.6,,,,,,27.0,,,,,,,,MLI,-3.542501,17.34559
+394,Malta,MLT,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,MLT,14.40384,35.92198
+395,Malta,MLT,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,MLT,14.40384,35.92198
+396,Malta,MLT,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,MLT,14.40384,35.92198
+397,Myanmar,MMR,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,MMR,96.48803,21.18534
+398,Myanmar,MMR,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,MMR,96.48803,21.18534
+399,Myanmar,MMR,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,MMR,96.48803,21.18534
+400,Montenegro,MNE,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,MNE,19.23801,42.78915
+401,Montenegro,MNE,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,MNE,19.23801,42.78915
+402,Montenegro,MNE,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,MNE,19.23801,42.78915
+403,Mongolia,MNG,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,22.02146,,,,,12.4,,10.1,,,,,16.0,14.699067382827,,,,,,,,MNG,103.0526,46.82691
+404,Mongolia,MNG,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,23.47364,,,,,14.1,,11.4,,,,,16.5,17.215576081684,,,,,,,,MNG,103.0526,46.82691
+405,Mongolia,MNG,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,20.59043,,,,,10.7,,8.6,,,,,15.5,12.176944811783,,,,,,,,MNG,103.0526,46.82691
+406,Mariana,MNP,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,MNP,145.6203,15.84419
+407,Mariana,MNP,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,MNP,145.6203,15.84419
+408,Mariana,MNP,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,MNP,145.6203,15.84419
+409,Mozambique,MOZ,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre y Mujer,7 a 14 años,,,,,,,,,27.4,,,,,,,,,,,,,MOZ,35.53276,-17.27404
+410,Mozambique,MOZ,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre,7 a 14 años,,,,,,,,,27.2,,,,,,,,,,,,,MOZ,35.53276,-17.27404
+411,Mozambique,MOZ,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Mujer,7 a 14 años,,,,,,,,,27.7,,,,,,,,,,,,,MOZ,35.53276,-17.27404
+412,Mauritania,MRT,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,,,21.3,,,,14.52555,,,,,,,,,,MRT,-10.34692,20.25709
+413,Mauritania,MRT,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,,,23.9,,,,16.41397,,,,,,,,,,MRT,-10.34692,20.25709
+414,Mauritania,MRT,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,,,18.6,,,,12.77774,,,,,,,,,,MRT,-10.34692,20.25709
+415,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MSR,-62.18455,16.7398
+416,Mauricio,MUS,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,MUS,57.57039,-20.27756
+417,Mauricio,MUS,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,MUS,57.57039,-20.27756
+418,Mauricio,MUS,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,MUS,57.57039,-20.27756
+419,Malawi,MWI,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre y Mujer,7 a 14 años,,,,,42.6,,40.3,,,,,25.1,,,47.57831,48.9,,,,,,MWI,34.28841,-13.21831
+420,Malawi,MWI,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre,7 a 14 años,,,,,45.0,,41.3,,,,,26.3,,,50.88541,50.79,,,,,,MWI,34.28841,-13.21831
+421,Malawi,MWI,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Mujer,7 a 14 años,,,,,40.3,,39.4,,,,,23.8,,,44.3497,47.0,,,,,,MWI,34.28841,-13.21831
+422,Malasia,MYS,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,MYS,109.6976,3.790286
+423,Malasia,MYS,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,MYS,109.6976,3.790286
+424,Malasia,MYS,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,MYS,109.6976,3.790286
+425,Namibia,NAM,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,NAM,17.20895,-22.13044
+426,Namibia,NAM,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,NAM,17.20895,-22.13044
+427,Namibia,NAM,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,NAM,17.20895,-22.13044
+428,Nueva Caledonia,NCL,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,NCL,165.6857,-21.30033
+429,Nueva Caledonia,NCL,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,NCL,165.6857,-21.30033
+430,Nueva Caledonia,NCL,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,NCL,165.6857,-21.30033
+431,Níger,NER,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre y Mujer,7 a 14 años,,,,,,,,47.1,,55.1,,,48.5,,,,,,,,,NER,9.384536,17.41914
+432,Níger,NER,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre,7 a 14 años,,,,,,,,49.2,,52.6,,,50.3,,,,,,,,,NER,9.384536,17.41914
+433,Níger,NER,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Mujer,7 a 14 años,,,,,,,,45.0,,57.7,,,46.7,,,,,,,,,NER,9.384536,17.41914
+434,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NFK,167.9488,-29.05064
+435,Nigeria,NGA,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,,,40.7,,,21.2,35.06192,,,,,,,,,,NGA,8.08839,9.594288
+436,Nigeria,NGA,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,,,41.2,,,23.3,34.07294,,,,,,,,,,NGA,8.08839,9.594288
+437,Nigeria,NGA,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,,,40.1,,,18.7,36.04485,,,,,,,,,,NGA,8.08839,9.594288
+438,Nicaragua,NIC,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,12.1306786605,,,,10.1,,,,,31.1,,47.74977,,,,,,,,,NIC,-85.02987,12.8471
+439,Nicaragua,NIC,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,17.5197539097,,,,16.2,,,,,40.5,,56.22113,,,,,,,,,NIC,-85.02987,12.8471
+440,Nicaragua,NIC,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,6.4996287654,,,,3.9,,,,,21.2,,38.95829,,,,,,,,,NIC,-85.02987,12.8471
+441,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NIU,-169.8703,-19.04879
+442,Países Bajos,NLD,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,NLD,5.280569,52.10063
+443,Países Bajos,NLD,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,NLD,5.280569,52.10063
+444,Países Bajos,NLD,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,NLD,5.280569,52.10063
+445,Noruega,NOR,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,NOR,15.3477,68.74984
+446,Noruega,NOR,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,NOR,15.3477,68.74984
+447,Noruega,NOR,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,NOR,15.3477,68.74984
+448,Nepal,NPL,Porcentaje de niños economicamente activos,Asia meridional,Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,,,,40.6,,,,,,42.827492913494,,,,,,,NPL,83.91523,28.24838
+449,Nepal,NPL,Porcentaje de niños economicamente activos,Asia meridional,Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,,,,36.2,,,,,,41.504912726971,,,,,,,NPL,83.91523,28.24838
+450,Nepal,NPL,Porcentaje de niños economicamente activos,Asia meridional,Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,,,,45.4,,,,,,44.091355666238,,,,,,,NPL,83.91523,28.24838
+451,Nauru,NRU,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,NRU,166.9325,-0.5191794
+452,Nauru,NRU,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,NRU,166.9325,-0.5191794
+453,Nauru,NRU,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,NRU,166.9325,-0.5191794
+454,Nueva Zelandia,NZL,Porcentaje de niños economicamente activos,Oceanía,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,NZL,171.4918,-41.81089
+455,Nueva Zelandia,NZL,Porcentaje de niños economicamente activos,Oceanía,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,NZL,171.4918,-41.81089
+456,Nueva Zelandia,NZL,Porcentaje de niños economicamente activos,Oceanía,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,NZL,171.4918,-41.81089
+457,Omán,OMN,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,OMN,56.09105,20.60484
+458,Omán,OMN,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,OMN,56.09105,20.60484
+459,Omán,OMN,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,OMN,56.09105,20.60484
+460,Pakistán,PAK,Porcentaje de niños economicamente activos,Asia meridional,Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,,,,15.9,,,13.0,,,,,,,,,,PAK,69.33898,29.94951
+461,Pakistán,PAK,Porcentaje de niños economicamente activos,Asia meridional,Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,,,,15.6,,,12.5,,,,,,,,,,PAK,69.33898,29.94951
+462,Pakistán,PAK,Porcentaje de niños economicamente activos,Asia meridional,Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,,,,16.2,,,13.5,,,,,,,,,,PAK,69.33898,29.94951
+463,Panamá,PAN,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,5.1,,,,,8.9,,5.4,,4.5,,5.620417,,,,,,,PAN,-80.11893,8.517593
+464,Panamá,PAN,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,7.7,,,,,12.1,,7.5,,5.4,,7.020013,,,,,,,PAN,-80.11893,8.517593
+465,Panamá,PAN,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,2.2,,,,,5.4,,3.1,,3.5,,4.133818,,,,,,,PAN,-80.11893,8.517593
+466,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PCN,-128.3166,-24.36519
+467,Perú,PER,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,24.1,,,,,,,42.2,,,,20.7,,,26.10942,22.566572235676,,,,,,PER,-74.38176,-9.152675
+468,Perú,PER,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,25.7,,,,,,,44.8,,,,21.9,,,27.37085,23.121932565726,,,,,,PER,-74.38176,-9.152675
+469,Perú,PER,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,22.3,,,,,,,39.4,,,,19.4,,,24.79848,21.994101978501,,,,,,PER,-74.38176,-9.152675
+470,Filipinas,PHL,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,13.25641,,,,,,,,,,9.0,,,,,,,,,,PHL,122.8839,11.77507
+471,Filipinas,PHL,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,16.26185,,,,,,,,,,10.9,,,,,,,,,,PHL,122.8839,11.77507
+472,Filipinas,PHL,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,10.04384,,,,,,,,,,7.2,,,,,,,,,,PHL,122.8839,11.77507
+473,Palau,PLW,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,PLW,134.407,7.287371
+474,Palau,PLW,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,PLW,134.407,7.287371
+475,Palau,PLW,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,PLW,134.407,7.287371
+476,Papua Nueva Guinea,PNG,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,PNG,145.2072,-6.464314
+477,Papua Nueva Guinea,PNG,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,PNG,145.2072,-6.464314
+478,Papua Nueva Guinea,PNG,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,PNG,145.2072,-6.464314
+479,Polonia,POL,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,POL,19.38934,52.12747
+480,Polonia,POL,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,POL,19.38934,52.12747
+481,Polonia,POL,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,POL,19.38934,52.12747
+482,Puerto Rico,PRI,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,PRI,-66.47201,18.22799
+483,Puerto Rico,PRI,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,PRI,-66.47201,18.22799
+484,Puerto Rico,PRI,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,PRI,-66.47201,18.22799
+485,"Corea, República Popular Democrática de",PRK,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso bajo,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,PRK,127.1921,40.15368
+486,"Corea, República Popular Democrática de",PRK,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso bajo,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,PRK,127.1921,40.15368
+487,"Corea, República Popular Democrática de",PRK,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso bajo,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,PRK,127.1921,40.15368
+488,Portugal,PRT,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,3.6365541562656,,,,,,,,,,,,,,,,,,,,PRT,-8.499453,39.59589
+489,Portugal,PRT,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,4.5861858066976,,,,,,,,,,,,,,,,,,,,PRT,-8.499453,39.59589
+490,Portugal,PRT,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,2.6314916533908,,,,,,,,,,,,,,,,,,,,PRT,-8.499453,39.59589
+491,Paraguay,PRY,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,15.3,,,,,,,,,10.42105,,,,,,,PRY,-58.39938,-23.22825
+492,Paraguay,PRY,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,22.6,,,,,,,,,15.70421,,,,,,,PRY,-58.39938,-23.22825
+493,Paraguay,PRY,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,7.7,,,,,,,,,4.736176,,,,,,,PRY,-58.39938,-23.22825
+494,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PSX,35.19603,31.91612
+495,Polinesia Francesa,PYF,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,PYF,-144.9037,-14.73536
+496,Polinesia Francesa,PYF,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,PYF,-144.9037,-14.73536
+497,Polinesia Francesa,PYF,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,PYF,-144.9037,-14.73536
+498,Qatar,QAT,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,QAT,51.18368,25.30562
+499,Qatar,QAT,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,QAT,51.18368,25.30562
+500,Qatar,QAT,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,QAT,51.18368,25.30562
+501,Rumania,ROU,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,1.4,,,,,,,,,,,,,,,,,,,,,ROU,24.97207,45.85258
+502,Rumania,ROU,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,1.7,,,,,,,,,,,,,,,,,,,,,ROU,24.97207,45.85258
+503,Rumania,ROU,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,1.1,,,,,,,,,,,,,,,,,,,,,ROU,24.97207,45.85258
+504,Federación de Rusia,RUS,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,RUS,96.6861,61.98069
+505,Federación de Rusia,RUS,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,RUS,96.6861,61.98069
+506,Federación de Rusia,RUS,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,RUS,96.6861,61.98069
+507,Rwanda,RWA,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre y Mujer,7 a 14 años,33.1,,,,,,,,7.5,,19.1,5.000835,,,5.9,,,,,,,RWA,29.91909,-1.989717
+508,Rwanda,RWA,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre,7 a 14 años,36.1,,,,,,,,8.0,,18.4,4.992462,,,6.0,,,,,,,RWA,29.91909,-1.989717
+509,Rwanda,RWA,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Mujer,7 a 14 años,30.3,,,,,,,,7.0,,19.8,5.009021,,,5.7,,,,,,,RWA,29.91909,-1.989717
+510,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SAH,-12.2191,24.22914
+511,Arabia Saudita,SAU,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,SAU,44.53608,24.12244
+512,Arabia Saudita,SAU,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,SAU,44.53608,24.12244
+513,Arabia Saudita,SAU,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,SAU,44.53608,24.12244
+514,Sudán,SDN,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre y Mujer,7 a 14 años,19.13425,,,,,,,,12.5,,,,,,30.555031991743,,,,,,,SDN,29.93979,15.99044
+515,Sudán,SDN,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre,7 a 14 años,21.45267,,,,,,,,15.2,,,,,,34.258396097914,,,,,,,SDN,29.93979,15.99044
+516,Sudán,SDN,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Mujer,7 a 14 años,16.78005,,,,,,,,9.5,,,,,,26.86745168482,,,,,,,SDN,29.93979,15.99044
+517,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SDS,30.247,7.308919
+518,Senegal,SEN,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,18.5,,,,,,13.1,,,,25.138870916659,,,,,,SEN,-14.47267,14.36616
+519,Senegal,SEN,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,24.4,,,,,,17.6,,,,37.264055686365,,,,,,SEN,-14.47267,14.36616
+520,Senegal,SEN,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,12.6,,,,,,8.7,,,,13.053275987126,,,,,,SEN,-14.47267,14.36616
+521,Singapur,SGP,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,SGP,103.8173,1.359611
+522,Singapur,SGP,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,SGP,103.8173,1.359611
+523,Singapur,SGP,Porcentaje de niños economicamente activos,Asia oriental y el pacífico,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,SGP,103.8173,1.359611
+524,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SGS,-36.43255,-54.46478
+525,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SHN,-9.568611,-12.3841
+526,Islas Salomón,SLB,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,SLB,159.632,-8.921392
+527,Islas Salomón,SLB,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,SLB,159.632,-8.921392
+528,Islas Salomón,SLB,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,SLB,159.632,-8.921392
+529,Sierra Leona,SLE,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre y Mujer,7 a 14 años,65.0,,,,,62.7,,14.9,53.7,,39.9,,,59.2,,,,,,,,SLE,-11.79164,8.563549
+530,Sierra Leona,SLE,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre,7 a 14 años,64.7,,,,,63.6,,14.9,55.0,,40.8,,,60.7,,,,,,,,SLE,-11.79164,8.563549
+531,Sierra Leona,SLE,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Mujer,7 a 14 años,65.4,,,,,61.8,,14.9,52.5,,39.1,,,57.5,,,,,,,,SLE,-11.79164,8.563549
+532,El Salvador,SLV,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,12.6609317489,,,,7.1,,7.4,,7.442466,7.0,7.800059,,,,,,,,SLV,-88.8711,13.73952
+533,El Salvador,SLV,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,17.0550538663,,,,10.1,,10.6,,10.35156,10.0,10.94549,,,,,,,,SLV,-88.8711,13.73952
+534,El Salvador,SLV,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,8.1127204865,,,,3.8,,4.1,,4.357373,4.0,4.569547,,,,,,,,SLV,-88.8711,13.73952
+535,San Marino,SMR,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,SMR,12.45866,43.94219
+536,San Marino,SMR,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,SMR,12.45866,43.94219
+537,San Marino,SMR,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,SMR,12.45866,43.94219
+538,Somalia,SOM,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre y Mujer,7 a 14 años,,,,,,,43.5,,,,,,,,,,,,,,,SOM,46.2514,9.733583
+539,Somalia,SOM,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre,7 a 14 años,,,,,,,45.5,,,,,,,,,,,,,,,SOM,46.2514,9.733583
+540,Somalia,SOM,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Mujer,7 a 14 años,,,,,,,41.5,,,,,,,,,,,,,,,SOM,46.2514,9.733583
+541,Somalia,SOM,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre y Mujer,7 a 14 años,,,,,,,43.5,,,,,,,,,,,,,,,SOM,45.70664,4.751199
+542,Somalia,SOM,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre,7 a 14 años,,,,,,,45.5,,,,,,,,,,,,,,,SOM,45.70664,4.751199
+543,Somalia,SOM,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Mujer,7 a 14 años,,,,,,,41.5,,,,,,,,,,,,,,,SOM,45.70664,4.751199
+544,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SPM,-56.30268,46.92031
+545,Serbia,SRB,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,6.9,,,,,,,,,17.9379,,,,,,,SRB,20.78855,44.2218
+546,Serbia,SRB,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,7.2,,,,,,,,,23.42707,,,,,,,SRB,20.78855,44.2218
+547,Serbia,SRB,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,6.6,,,,,,,,,12.88802,,,,,,,SRB,20.78855,44.2218
+548,Santo Tomé y Príncipe,STP,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,STP,6.72361,0.444379
+549,Santo Tomé y Príncipe,STP,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,STP,6.72361,0.444379
+550,Santo Tomé y Príncipe,STP,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,STP,6.72361,0.444379
+551,Suriname,SUR,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,SUR,-55.91186,4.130968
+552,Suriname,SUR,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,SUR,-55.91186,4.130968
+553,Suriname,SUR,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,SUR,-55.91186,4.130968
+554,República Eslovaca,SVK,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,SVK,19.47807,48.7053
+555,República Eslovaca,SVK,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,SVK,19.47807,48.7053
+556,República Eslovaca,SVK,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,SVK,19.47807,48.7053
+557,Eslovenia,SVN,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,SVN,14.80331,46.11555
+558,Eslovenia,SVN,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,SVN,14.80331,46.11555
+559,Eslovenia,SVN,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,SVN,14.80331,46.11555
+560,Suecia,SWE,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,SWE,16.74489,62.77964
+561,Suecia,SWE,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,SWE,16.74489,62.77964
+562,Suecia,SWE,Porcentaje de niños economicamente activos,Europa y Asia central,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,SWE,16.74489,62.77964
+563,Eswatini,SWZ,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,11.2,,,,,,,,,,13.3,,,,,,,,,,,SWZ,31.48108,-26.55867
+564,Eswatini,SWZ,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,11.4,,,,,,,,,,14.5,,,,,,,,,,,SWZ,31.48108,-26.55867
+565,Eswatini,SWZ,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,10.9,,,,,,,,,,12.1,,,,,,,,,,,SWZ,31.48108,-26.55867
+566,Sint Maarten (Dutch part),SXM,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,SXM,-63.0566,18.05082
+567,Sint Maarten (Dutch part),SXM,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,SXM,-63.0566,18.05082
+568,Sint Maarten (Dutch part),SXM,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,SXM,-63.0566,18.05082
+569,Seychelles,SYC,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,SYC,55.47536,-4.66109
+570,Seychelles,SYC,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,SYC,55.47536,-4.66109
+571,Seychelles,SYC,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,SYC,55.47536,-4.66109
+572,República Árabe Siria,SYR,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Países de ingreso bajo,Hombre y Mujer,7 a 14 años,,,,,,,6.6,,,,,,,,,,,,,,,SYR,38.50703,35.02593
+573,República Árabe Siria,SYR,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Países de ingreso bajo,Hombre,7 a 14 años,,,,,,,8.8,,,,,,,,,,,,,,,SYR,38.50703,35.02593
+574,República Árabe Siria,SYR,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Países de ingreso bajo,Mujer,7 a 14 años,,,,,,,4.3,,,,,,,,,,,,,,,SYR,38.50703,35.02593
+575,Islas Turcas y Caicos,TCA,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,TCA,-71.97288,21.83035
+576,Islas Turcas y Caicos,TCA,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,TCA,-71.97288,21.83035
+577,Islas Turcas y Caicos,TCA,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,TCA,-71.97288,21.83035
+578,Chad,TCD,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre y Mujer,7 a 14 años,,,,,60.4,,,,,,33.1,,,,,55.895620252117,,,,,,TCD,18.64405,15.3334
+579,Chad,TCD,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre,7 a 14 años,,,,,64.4,,,,,,32.1,,,,,56.709070533588,,,,,,TCD,18.64405,15.3334
+580,Chad,TCD,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Mujer,7 a 14 años,,,,,56.2,,,,,,34.2,,,,,55.08938460203,,,,,,TCD,18.64405,15.3334
+581,Togo,TGO,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre y Mujer,7 a 14 años,,,,,,,38.68966,,,,48.8,,,,35.225900214957,,,,,,,TGO,0.9618189,8.524685
+582,Togo,TGO,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre,7 a 14 años,,,,,,,39.84446,,,,50.3,,,,37.080401632621,,,,,,,TGO,0.9618189,8.524685
+583,Togo,TGO,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Mujer,7 a 14 años,,,,,,,37.4305,,,,47.0,,,,33.071973136429,,,,,,,TGO,0.9618189,8.524685
+584,Tailandia,THA,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,15.1,15.1,,,,,,,,,,,,,,,THA,101.0023,15.11748
+585,Tailandia,THA,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,15.7,15.7,,,,,,,,,,,,,,,THA,101.0023,15.11748
+586,Tailandia,THA,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,14.4,14.4,,,,,,,,,,,,,,,THA,101.0023,15.11748
+587,Tayikistán,TJK,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,8.9,,,,,,,,,,,,,,,,TJK,71.01314,38.53087
+588,Tayikistán,TJK,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,8.7,,,,,,,,,,,,,,,,TJK,71.01314,38.53087
+589,Tayikistán,TJK,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,9.1,,,,,,,,,,,,,,,,TJK,71.01314,38.53087
+590,Turkmenistán,TKM,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,TKM,59.37014,39.11583
+591,Turkmenistán,TKM,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,TKM,59.37014,39.11583
+592,Turkmenistán,TKM,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,TKM,59.37014,39.11583
+593,Timor-Leste,TLS,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,7.6,,,,,,19.9,,,,,,,,,,,,,,TLS,125.8436,-8.829186
+594,Timor-Leste,TLS,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,7.1,,,,,,22.2,,,,,,,,,,,,,,TLS,125.8436,-8.829186
+595,Timor-Leste,TLS,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,8.1,,,,,,17.7,,,,,,,,,,,,,,TLS,125.8436,-8.829186
+596,Tonga,TON,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,TON,-174.8068,-20.4237
+597,Tonga,TON,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,TON,-174.8068,-20.4237
+598,Tonga,TON,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,TON,-174.8068,-20.4237
+599,Trinidad y Tobago,TTO,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre y Mujer,7 a 14 años,3.9,,,,,,3.4,,,,,,,,,,,,,,,TTO,-61.26469,10.4579
+600,Trinidad y Tobago,TTO,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre,7 a 14 años,5.2,,,,,,4.1,,,,,,,,,,,,,,,TTO,-61.26469,10.4579
+601,Trinidad y Tobago,TTO,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Mujer,7 a 14 años,2.8,,,,,,2.7,,,,,,,,,,,,,,,TTO,-61.26469,10.4579
+602,Túnez,TUN,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,3.4,,,,,,,,,TUN,9.551995,34.11994
+603,Túnez,TUN,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,,,,,,,,3.9,,,,,,,,,TUN,9.551995,34.11994
+604,Túnez,TUN,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,,,,,,,,2.7,,,,,,,,,TUN,9.551995,34.11994
+605,Turquía,TUR,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,,2.6,,,,,,,,,,,,,,,TUR,35.16805,39.06189
+606,Turquía,TUR,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,,3.3,,,,,,,,,,,,,,,TUR,35.16805,39.06189
+607,Turquía,TUR,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,,1.8,,,,,,,,,,,,,,,TUR,35.16805,39.06189
+608,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TWN,120.9538,23.75338
+609,Tanzanía,TZA,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,40.3521593213,,,,,31.1,,,,,29.4,,,34.73484,,,,,,,TZA,34.81222,-6.275871
+610,Tanzanía,TZA,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,41.4733688044,,,,,35.0,,,,,30.8,,,35.26557,,,,,,,TZA,34.81222,-6.275871
+611,Tanzanía,TZA,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,39.2195644612,,,,,27.1,,,,,28.1,,,34.17038,,,,,,,TZA,34.81222,-6.275871
+612,Uganda,UGA,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre y Mujer,7 a 14 años,,,,,,,38.17033,,,,,,36.7,,,,,,,,,UGA,32.36804,1.2747
+613,Uganda,UGA,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Hombre,7 a 14 años,,,,,,,39.82124,,,,,,37.1,,,,,,,,,UGA,32.36804,1.2747
+614,Uganda,UGA,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso bajo,Mujer,7 a 14 años,,,,,,,36.49879,,,,,,36.3,,,,,,,,,UGA,32.36804,1.2747
+615,Ucrania,UKR,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,17.3,,,,,,,5.0,,,,,,,,,UKR,31.38229,48.99654
+616,Ucrania,UKR,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,18.0,,,,,,,5.1,,,,,,,,,UKR,31.38229,48.99654
+617,Ucrania,UKR,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,16.6,,,,,,,5.0,,,,,,,,,UKR,31.38229,48.99654
+618,Uruguay,URY,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,7.3,,,,,,,,,,,,URY,-56.0173,-32.79901
+619,Uruguay,URY,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,9.4,,,,,,,,,,,,URY,-56.0173,-32.79901
+620,Uruguay,URY,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,5.0,,,,,,,,,,,,URY,-56.0173,-32.79901
+621,Estados Unidos,USA,Porcentaje de niños economicamente activos,America del Norte,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,USA,-112.4621,45.68
+622,Estados Unidos,USA,Porcentaje de niños economicamente activos,America del Norte,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,USA,-112.4621,45.68
+623,Estados Unidos,USA,Porcentaje de niños economicamente activos,America del Norte,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,USA,-112.4621,45.68
+624,Uzbekistán,UZB,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,18.09417,,,,,5.1,5.1,,,,,,,,,,,,,,,UZB,63.13933,41.75581
+625,Uzbekistán,UZB,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,21.99937,,,,,5.3,5.3,,,,,,,,,,,,,,,UZB,63.13933,41.75581
+626,Uzbekistán,UZB,Porcentaje de niños economicamente activos,Europa y Asia central (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,13.98417,,,,,4.9,4.9,,,,,,,,,,,,,,,UZB,63.13933,41.75581
+627,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VAT,12.43287,41.9021
+628,San Vicente y las Granadinas,VCT,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,VCT,-61.20046,13.22535
+629,San Vicente y las Granadinas,VCT,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,VCT,-61.20046,13.22535
+630,San Vicente y las Granadinas,VCT,Porcentaje de niños economicamente activos,América Latina y el Caribe (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,VCT,-61.20046,13.22535
+631,Venezuela,VEN,Porcentaje de niños economicamente activos,America Latina y el Caribe,No clasificado,Hombre y Mujer,7 a 14 años,,,,9.1,,5.4,5.1,,,,,,,3.910936,,,,,,,,VEN,-66.18112,7.124726
+632,Venezuela,VEN,Porcentaje de niños economicamente activos,America Latina y el Caribe,No clasificado,Hombre,7 a 14 años,,,,11.4,,7.1,6.9,,,,,,,5.368505,,,,,,,,VEN,-66.18112,7.124726
+633,Venezuela,VEN,Porcentaje de niños economicamente activos,America Latina y el Caribe,No clasificado,Mujer,7 a 14 años,,,,6.6,,3.6,3.3,,,,,,,2.389926,,,,,,,,VEN,-66.18112,7.124726
+634,Islas Vírgenes Británicas,VGB,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,VGB,-64.47124,18.52561
+635,Islas Vírgenes Británicas,VGB,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,VGB,-64.47124,18.52561
+636,Islas Vírgenes Británicas,VGB,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,VGB,-64.47124,18.52561
+637,Islas Vírgenes (EE.UU.),VIR,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,VIR,-64.80279,17.95713
+638,Islas Vírgenes (EE.UU.),VIR,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,VIR,-64.80279,17.95713
+639,Islas Vírgenes (EE.UU.),VIR,Porcentaje de niños economicamente activos,America Latina y el Caribe,Ingreso alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,VIR,-64.80279,17.95713
+640,Viet Nam,VNM,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,,21.3,,,,,13.0,10.9,,,,,,,,,VNM,106.2986,16.64601
+641,Viet Nam,VNM,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,,21.0,,,,,12.5,11.7,,,,,,,,,VNM,106.2986,16.64601
+642,Viet Nam,VNM,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,,21.6,,,,,13.5,10.1,,,,,,,,,VNM,106.2986,16.64601
+643,Vanuatu,VUT,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,VUT,167.6874,-16.22936
+644,Vanuatu,VUT,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,VUT,167.6874,-16.22936
+645,Vanuatu,VUT,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,VUT,167.6874,-16.22936
+646,,,,,,,,,,,,,,,,,,,,,,,,,,,,,WLF,-177.3438,-13.88511
+647,Samoa,WSM,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,WSM,-172.1652,-13.75321
+648,Samoa,WSM,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,WSM,-172.1652,-13.75321
+649,Samoa,WSM,Porcentaje de niños economicamente activos,Asia oriental y el Pacífico (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,WSM,-172.1652,-13.75321
+650,"Yemen, Rep. del",YEM,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Países de ingreso bajo,Hombre y Mujer,7 a 14 años,,,,,,,18.3,,,,16.1,,,,,,,,,,,YEM,47.58606,15.90908
+651,"Yemen, Rep. del",YEM,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Países de ingreso bajo,Hombre,7 a 14 años,,,,,,,20.7,,,,17.1,,,,,,,,,,,YEM,47.58606,15.90908
+652,"Yemen, Rep. del",YEM,Porcentaje de niños economicamente activos,Oriente Medio y Norte de África (excluido altos ingresos),Países de ingreso bajo,Mujer,7 a 14 años,,,,,,,15.9,,,,15.0,,,,,,,,,,,YEM,47.58606,15.90908
+653,Sudáfrica,ZAF,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Ingreso mediano alto,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ZAF,25.08281,-29.00006
+654,Sudáfrica,ZAF,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Ingreso mediano alto,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ZAF,25.08281,-29.00006
+655,Sudáfrica,ZAF,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Ingreso mediano alto,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ZAF,25.08281,-29.00006
+656,Zambia,ZMB,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,47.86269,,,34.4,,,,,,,,,,,,,ZMB,27.77372,-13.45858
+657,Zambia,ZMB,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,48.9289,,,35.4,,,,,,,,,,,,,ZMB,27.77372,-13.45858
+658,Zambia,ZMB,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,46.76866,,,33.3,,,,,,,,,,,,,ZMB,27.77372,-13.45858
+659,Zimbabwe,ZWE,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre y Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ZWE,29.85049,-19.00436
+660,Zimbabwe,ZWE,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Hombre,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ZWE,29.85049,-19.00436
+661,Zimbabwe,ZWE,Porcentaje de niños economicamente activos,África al sur del Sahara (excluido altos ingresos),Países de ingreso mediano bajo,Mujer,7 a 14 años,,,,,,,,,,,,,,,,,,,,,,ZWE,29.85049,-19.00436
