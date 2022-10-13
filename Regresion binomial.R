@@ -1,0 +1,90 @@
+## Taller de regresión logística 
+
+# Pedro David Ochoa Rincón. 
+# Miguel Angel Vallejo Parra. 
+
+## punto 22
+
+df_lagartijas <- data.frame(grahani)
+summary(df_lagartijas)
+modelo_binom <- glm(cbind(df_lagartijas$V1,df_lagartijas$V2)~df_lagartijas$V3+df_lagartijas$V4+
+                      df_lagartijas$V5+df_lagartijas$V6,family = binomial(link = "logit"))
+summary(modelo_binom)
+exp(coef(modelo_binom))
+
+# Hora del dia: la probabilidad de que la lagartija 
+#   salga por el mediodia es 1.05 mas de que lo haga en otra hora.Y que es 0.832 mas probable de que aparezca 
+#   por las tardes. 
+# Longitud de la madera: la proibabilidad de que la 
+#   lagartija se encuentre en una madera larga es 1.234 mas de que se encuentre en otra mas corta.
+# Ancho de la madera: tiene 0.835 mas de probabilidad de que se encuentre en este tiepo de madera ancha.
+# lugar de ocupacion: 0.8563 es mas probable que aparezca en lugares oscuros. 
+
+
+# ANODEV 
+
+mod1 <- glm(cbind(df_lagartijas$V1,df_lagartijas$V2)~df_lagartijas$V3,family = binomial(link = "logit"))
+mod2 <- glm(cbind(df_lagartijas$V1,df_lagartijas$V2)~df_lagartijas$V4,family = binomial(link = "logit"))
+mod3 <- glm(cbind(df_lagartijas$V1,df_lagartijas$V2)~df_lagartijas$V5,family = binomial(link = "logit"))
+mod4 <- glm(cbind(df_lagartijas$V1,df_lagartijas$V2)~df_lagartijas$V6,family = binomial(link = "logit"))
+anova(mod1,mod2,mod3,mod4,test = "Rao")
+
+# en la anterior tabla se puede observar un análisis de desviance y se percartar que la mejor significancia 
+# la tiene el modelo 2, que hace referencia a la longitud de madera. Lo que implica que es mucho mas probable
+# encontrar un lagarto grahani en una madera ancha que el otro lagarto. 
+
+## Punto 23
+
+# Se escoge un modelo binomial para explicar la probabilidad de que una persona contraiga la enfermedad. 
+
+df_casos <- data.frame(dengue)
+mode1 <- glm(df_casos$V4~df_casos$V3,family = binomial)
+exp(coef(mode1))
+# Ignorando las demás variables y ver el sector. Entonces es 3.435 ma probable contraer la enfermedad 
+# en el sector 1. 
+
+mode2 <- glm(df_casos$V4~df_casos$V2+df_casos$V2,family = binomial)
+exp(coef(mode2))
+# Al observar se dice que es 0.906 mas probable de contraer la enfermedad si esta en un estado socioeconomico alto. 
+
+mode3 <- glm(df_casos$V4~df_casos$V1,family = binomial)
+exp(coef(mode3))
+# Por cada unidad que aumente en edad de una persona el ODDS de contraer la enfermedad es de 2.7977% aumenta. 
+
+anova(mode1,mode2,mode3,test = "Rao")
+
+# Haciendo un analisis de desviance se observa que no hay influencia de la enfermedad es decir que la edad, 
+# el sector y el estrato socioeconómico no determina si puede contraer la enfermedad. Pues como es un mosquito 
+# este tiene lugares en especificos donde ubicarse y la capacidad de movilisarse. Ademas del clima tambien influye. 
+
+# bondad de ajuste 
+
+library(ResourceSelection)
+hoslem.test(mode1$y, fitted(mode1), g=10)
+
+hoslem.test(mode2$y, fitted(mode2), g=10)
+
+hoslem.test(mode3$y, fitted(mode3), g=10)
+
+# Se puede asumir que los valores estimados se acomodan a una distribución binomial o que siguen a la variable
+# de respuesta. 
+
+# Punto 25
+
+df_experimento <- data.frame(morgan)
+df_1 <- subset(df_experimento,df_experimento$V1 <3)
+modelo3 <- glm(df_1$V1~df_1$V2+df_1$V3+df_1$V4,family = binomial)
+summary(modelo3)
+# se puede observar que ninguna variable es significativa de si llegan a ver muertos de insectos si se aplica 
+# cierto tipo de veneno lo que posibilita de que haya sobredipersión en los datos. 
+
+hoslem.test(modelo3$y, fitted(modelo3), g=5)
+
+# se observa buena bondad de ajuste 
+
+library(lmtest)
+bptest(modelo3)
+
+# Segun el anterior test de homocedasticidad se puede decir que no hay evidencia para decir que las varianzas sean 
+# iguales lo que implicaria que hay una dispersion muy significativa en cada variable. 
+
